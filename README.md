@@ -31,7 +31,7 @@ Header Mappings and Examples
 
 DataPoint Mappings and Examples
 ---
-- [OMH Heart Rate DataPoint](OMH HeartRate DataPoint.md)
+- [OMH Heart Rate DataPoint](/mapping/datapoint-mapping/OMH HeartRate DataPoint.md)
 - [OMH Respiratory Rate DataPoint](OMH Respiratory Rate DataPoint.md)
 - [OMH Body Temperature DataPoint](OMH Body Temperature DataPoint.md)
 - [OMH Body Weight DataPoint](OMH Body Weight DataPoint.md)
