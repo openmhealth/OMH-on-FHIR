@@ -1,9 +1,3 @@
----
-tags: omh2fhir
----
-
-{%hackmd 2yYAoTGSSpiWVb7EWu6v0w %}
-
 # OMH Blood Glucose DataPoint
 
 ## OMH Blood Glucose DataPoint to FHIR Observation Detailed Mapping
