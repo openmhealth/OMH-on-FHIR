@@ -17,11 +17,10 @@
 
 OMH to FHIR QuickStart Guide
 ===
-View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
 
 Introduction
 ---
-- [Quick Start Mapping Guide](/CncEQ4ewSYOKPPy1GxXpCQ)
+- [Quick Start Mapping Guide](https://github.com/openmhealth/mFHIR/blob/master/quickstart.md)
 
 
 Header Mappings and Examples
