@@ -31,15 +31,15 @@ Header Mappings and Examples
 
 DataPoint Mappings and Examples
 ---
-- [OMH Heart Rate DataPoint](/STDbEoSfRUuFYHQI6av3Iw)
-- [OMH Respiratory Rate DataPoint](/1PmjSjkfSa69UP9UDxYNmw)
-- [OMH Body Temperature DataPoint](/FqvykTDJR3S_P7M2PaAKjA)
-- [OMH Body Weight DataPoint](/3FQ08xBQS-W51gerVIjaFA)
-- [OMH Blood Pressure DataPoint](/a8H70hvWT4i23rujY5PiXg)
-- [OMH Oxygen Saturation DataPoint](/-7sPiVS2RNKQFBY-5KQdSA)
-- [OMH Step Count DataPoint](/tJ_duM27R0KetqQiHMIyqg)
-- [OMH Total Sleep Time DataPoint](/3PlcbN8LRxOZmeeEYsOieQ)
-- [OMH Blood Glucose DataPoint](/TzHcptm6SoCDQn6lZTv7qA)
+- [OMH Heart Rate DataPoint](OMH HeartRate DataPoint.md)
+- [OMH Respiratory Rate DataPoint](OMH Respiratory Rate DataPoint.md)
+- [OMH Body Temperature DataPoint](OMH Body Temperature DataPoint.md)
+- [OMH Body Weight DataPoint](OMH Body Weight DataPoint.md)
+- [OMH Blood Pressure DataPoint](OMH Blood Pressure DataPoint.md)
+- [OMH Oxygen Saturation DataPoint](OMH Oxygen Saturation DataPoint.md)
+- [OMH Step Count DataPoint](OMH Step Count DataPoint.md)
+- [OMH Total Sleep Time DataPoint](OMH Total Sleep Time DataPoint.md)
+- [OMH Blood Glucose DataPoint](OMH Blood Glucose DataPoint.md)
 
 
 Mapping Tables
