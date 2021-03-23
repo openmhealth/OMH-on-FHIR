@@ -20,7 +20,7 @@ OMH to FHIR QuickStart Guide
 
 Introduction
 ---
-- [Quick Start Mapping Guide](https://github.com/openmhealth/mFHIR/blob/master/quickstart.md)
+- [Quick Start Mapping Guide](quickstart.md)
 
 
 Header Mappings and Examples
