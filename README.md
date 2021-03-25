@@ -31,15 +31,15 @@ Header Mappings and Examples
 
 DataPoint Mappings and Examples
 ---
-- [OMH Heart Rate DataPoint](OMH HeartRate DataPoint.md)
-- [OMH Respiratory Rate DataPoint](OMH Respiratory Rate DataPoint.md)
-- [OMH Body Temperature DataPoint](OMH Body Temperature DataPoint.md)
-- [OMH Body Weight DataPoint](OMH Body Weight DataPoint.md)
-- [OMH Blood Pressure DataPoint](OMH Blood Pressure DataPoint.md)
-- [OMH Oxygen Saturation DataPoint](OMH Oxygen Saturation DataPoint.md)
-- [OMH Step Count DataPoint](OMH Step Count DataPoint.md)
-- [OMH Total Sleep Time DataPoint](OMH Total Sleep Time DataPoint.md)
-- [OMH Blood Glucose DataPoint](OMH Blood Glucose DataPoint.md)
+- [OMH Heart Rate DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20HeartRate%20DataPoint.md)
+- [OMH Respiratory Rate DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20Respiratory%20Rate%20DataPoint.md)
+- [OMH Body Temperature DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20Body%20Temperature%20DataPoint.md)
+- [OMH Body Weight DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20Body%20Weight%20DataPoint.md)
+- [OMH Blood Pressure DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20Blood%20Pressure%20DataPoint.md)
+- [OMH Oxygen Saturation DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20Oxygen%20Saturation%20DataPoint.md)
+- [OMH Step Count DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20Step%20Count%20DataPoint.md)
+- [OMH Total Sleep Time DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20Total%20Sleep%20Time%20DataPoint.md)
+- [OMH Blood Glucose DataPoint](https://github.com/openmhealth/mFHIR/blob/master/mapping/datapoint-mapping/OMH%20Blood%20Glucose%20DataPoint.md)
 
 
 Mapping Tables
