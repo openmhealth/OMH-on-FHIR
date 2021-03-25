@@ -25,8 +25,8 @@ Introduction
 
 Header Mappings and Examples
 ---
-- [OMH Header to FHIR Observation Detailed Mapping](OMH Header to FHIR Observation Detailed Mapping.md)
-- [OMH Header to FHIR Provenance Detailed Mapping](OMH Header to FHIR Provenance Detailed Mapping.md)
+- [OMH Header to FHIR Observation Detailed Mapping](https://github.com/openmhealth/mFHIR/blob/master/mapping/OMH%20Header%20to%20FHIR%20Observation%20Detailed%20Mapping.md)
+- [OMH Header to FHIR Provenance Detailed Mapping](https://github.com/openmhealth/mFHIR/blob/master/mapping/OMH%20Header%20to%20FHIR%20Provenance%20Detailed%20Mapping.md)
 
 
 DataPoint Mappings and Examples
@@ -44,24 +44,24 @@ DataPoint Mappings and Examples
 
 Mapping Tables
 ---
-- [OMH DataPoint Element to FHIR Element Mapping Table](OMH DataPoint Element to FHIR Element Mapping Table.md)
+- [OMH DataPoint Element to FHIR Element Mapping Table](https://github.com/openmhealth/mFHIR/blob/master/mapping/OMH_FHIR_Observation-Component_Mapping_Table.md)
 - [OMH_FHIR_Observation-Component_Mapping_Table](OMH_FHIR_Observation-Component_Mapping_Table.md)
 - [OMH_FHIR_Concept_Mapping_Table](OMH_FHIR_Concept_Mapping_Table.md)
-- [OMH_FHIR_Descriptive_Statistic_Denominator_Mapping _Table](OMH_FHIR_Descriptive_Statistic_Denominator_Mapping _Table.md)
+- [OMH_FHIR_Descriptive_Statistic_Denominator_Mapping _Table](https://github.com/openmhealth/mFHIR/blob/master/mapping/OMH_FHIR_Descriptive_Statistic_Denominator_Mapping%20_Table.md)
 
 FHIR Profiles
 ---
-- [OMH to FHIR Observation Profile](OMH to FHIR Observation Profile.md)
-- [OMH to FHIR Extensions](OMH to FHIR Extensions.md)
-- [OMH to FHIR ValueSets And CodeSystems](OMH to FHIR ValueSets And CodeSystems.md)
+- [OMH to FHIR Observation Profile](https://github.com/openmhealth/mFHIR/blob/master/mapping/OMH%20to%20FHIR%20Observation%20Profile.md)
+- [OMH to FHIR Extensions](https://github.com/openmhealth/mFHIR/blob/master/mapping/OMH%20to%20FHIR%20Extensions.md)
+- [OMH to FHIR ValueSets And CodeSystems](https://github.com/openmhealth/mFHIR/blob/master/mapping/OMH%20to%20FHIR%20ValueSets%20And%20CodeSystems.md)
 
 Example Python Mapping Script
 ---
-- [OMH to FHIR Mapper](OMH to FHIR Mapper.md)
+- [OMH to FHIR Mapper](https://github.com/openmhealth/mFHIR/blob/master/mapping/OMH%20to%20FHIR%20Mapper.md)
 
 Punch List
 ---
-- [PUNCHLIST](PUNCHLIST.md)
+- [PUNCHLIST](https://github.com/openmhealth/mFHIR/blob/master/mapping/PUNCHLIST.md)
 
 
 - [name=erichaas]
