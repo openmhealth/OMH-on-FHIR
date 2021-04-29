@@ -15,7 +15,7 @@
 </header>
 
 
-OMH to FHIR QuickStart Guide
+OMH to FHIR:registered: QuickStart Guide
 ===
 
 Introduction
